@@ -3229,6 +3229,10 @@ ul {
   grid-row-start: 1;
 }
 @media screen and (min-width: 1440px) {
+  .logo-fix {
+    margin-left: -42px;
+  }
+
   .body {
     font-size: 20px;
   }
